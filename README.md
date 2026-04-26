@@ -1,13 +1,11 @@
 Hello!
 
 Before we begin it is really important to note that *this project uses an anonymized dummy dataset provided for educational purposes to demonstrate financial reporting structures*.
-
-Now, onto the project:
-
-Merchant Analysis Project
 This project involves analyzing a dummy dataset representing merchant reporting at a fintech company.
+
+Now, let's dive in:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Merchant Revenue & Data Integrity Analysis
+# Merchant Analysis Project & Data Integrity Analysis
 
 This project demonstrates a comprehensive data audit and revenue analysis of a merchant dataset. 
 The goal was to transform raw, inconsistent data into actionable financial insights.
